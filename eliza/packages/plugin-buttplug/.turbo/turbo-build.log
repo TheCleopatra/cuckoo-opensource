@@ -1,0 +1,18 @@
+
+
+> @ai16z/plugin-buttplug@0.1.4-alpha.3 build /Users/cleopatra/Desktop/Web3/Caevilization/cvl-cuckoo-eliza/packages/plugin-buttplug
+> tsup --format esm --dts
+
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /Users/cleopatra/Desktop/Web3/Caevilization/cvl-cuckoo-eliza/packages/plugin-buttplug/tsup.config.ts
+[34mCLI[39m Target: esnext
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js     [22m[32m130.48 KB[39m
+[32mESM[39m [1mdist/index.js.map [22m[32m267.93 KB[39m
+[32mESM[39m ⚡️ Build success in 197ms
+DTS Build start
+DTS ⚡️ Build success in 6816ms
+DTS dist/index.d.ts 1.48 KB

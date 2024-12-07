@@ -1,0 +1,32 @@
+
+
+> @ai16z/plugin-conflux@0.1.4-alpha.3 build /Users/cleopatra/Desktop/Web3/Caevilization/cvl-cuckoo-eliza/packages/plugin-conflux
+> tsup --format esm --dts
+
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /Users/cleopatra/Desktop/Web3/Caevilization/cvl-cuckoo-eliza/packages/plugin-conflux/tsup.config.ts
+[34mCLI[39m Target: esnext
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[32mESM[39m [1mdist/secp256k1-WTA463A3.js     [22m[32m267.00 B[39m
+[32mESM[39m [1mdist/ccip-GDNGQWFM.js          [22m[32m320.00 B[39m
+[32mESM[39m [1mdist/index.js                  [22m[32m335.84 KB[39m
+[32mESM[39m [1mdist/chunk-PR4QN5HX.js         [22m[32m1.87 KB[39m
+[32mESM[39m [1mdist/chunk-GAOJWDUZ.js         [22m[32m4.02 KB[39m
+[32mESM[39m [1mdist/chunk-7ZSY24MT.js         [22m[32m74.67 KB[39m
+[32mESM[39m [1mdist/_esm-L4OBJJWB.js          [22m[32m130.56 KB[39m
+[32mESM[39m [1mdist/chunk-4LSI52JZ.js         [22m[32m156.53 KB[39m
+[32mESM[39m [1mdist/ccip-GDNGQWFM.js.map      [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-PR4QN5HX.js.map     [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/secp256k1-WTA463A3.js.map [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-GAOJWDUZ.js.map     [22m[32m14.58 KB[39m
+[32mESM[39m [1mdist/chunk-7ZSY24MT.js.map     [22m[32m181.50 KB[39m
+[32mESM[39m [1mdist/chunk-4LSI52JZ.js.map     [22m[32m395.75 KB[39m
+[32mESM[39m [1mdist/_esm-L4OBJJWB.js.map      [22m[32m211.08 KB[39m
+[32mESM[39m [1mdist/index.js.map              [22m[32m1.03 MB[39m
+[32mESM[39m ⚡️ Build success in 1169ms
+DTS Build start
+DTS ⚡️ Build success in 15154ms
+DTS dist/index.d.ts 104.00 B

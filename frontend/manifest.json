@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Cuckoo",
+  "version": "0.0.1",
+  "description": "A Chrome extension built with ai16z for web3 friendly entrance",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": ["storage", "idle", "http://localhost:5173", "http://localhost:3000"],
+  "host_permissions": ["http://localhost:3000/*"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "public/111.ico",
+      "48": "public/111.ico",
+      "128": "public/111.ico"
+    }
+  },
+  "options_page": "index.html"
+}
